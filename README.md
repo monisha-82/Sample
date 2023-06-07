@@ -1,3 +1,3 @@
 # Sample
 
-Created my first repository
+Creating my first repository
